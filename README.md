@@ -1,5 +1,5 @@
 # e2e-for-rocketform
-This is the project to test by e2e method using cypress.
+E2E Test, Cypress
 
 # Table of Contens
 
